@@ -17,6 +17,7 @@ local Settings = {
 	GamePassId = 1013101062; -- Replace with your game pass ID
 	WhitelistedUsers = {
 		5468759072; -- Replace with player IDs you want to whitelist
+		4177028825;
 	};
 }
 
